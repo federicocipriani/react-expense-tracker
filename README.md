@@ -3,4 +3,5 @@
 
 
 
-Note - this is the same version Traversy built. Updates coming.
+Note - this is the same version Traversy built.
+Project under development.
